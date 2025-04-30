@@ -1,0 +1,301 @@
+Producto,Categoria,Almacen,Proveedor,Cantidad_Actual,Umbral_Minimo,Fecha_Ingreso,Lote,Usuario
+Producto_039,Cuidado Personal,Almacen Central,Proveedor_08,700,40,16/01/2025,L7265,operador
+Producto_023,Limpieza,Sucursal Sur,Proveedor_08,372,43,19/12/2024,L2685,admin
+Producto_002,Cuidado Personal,Sucursal Norte,Proveedor_06,385,83,26/07/2024,L2184,supervisor
+Producto_022,Enlatados,Almacen Central,Proveedor_01,474,78,10/11/2024,L3047,operador
+Producto_047,Limpieza,Sucursal Sur,Proveedor_04,831,22,26/06/2024,L9838,admin
+Producto_009,Snacks,Almacen Central,Proveedor_02,776,72,24/05/2024,L7235,operador
+Producto_007,Cuidado Personal,Almacen Central,Proveedor_08,942,54,5/10/2024,L4152,supervisor
+Producto_040,Cuidado Personal,Sucursal Norte,Proveedor_06,565,23,23/06/2024,L7873,supervisor
+Producto_010,Cuidado Personal,Sucursal Norte,Proveedor_08,461,81,7/07/2024,L8892,admin
+Producto_018,Enlatados,Sucursal Norte,Proveedor_09,763,79,19/03/2025,L6276,operador
+Producto_045,Bebidas,Almacen Central,Proveedor_07,520,20,14/12/2024,L6258,operador
+Producto_017,Limpieza,Sucursal Sur,Proveedor_01,378,24,10/09/2024,L7184,operador
+Producto_009,Cuidado Personal,Sucursal Norte,Proveedor_01,47,42,26/02/2025,L9996,operador
+Producto_044,Limpieza,Sucursal Sur,Proveedor_01,738,66,19/12/2024,L4840,admin
+Producto_026,Limpieza,Almacen Central,Proveedor_10,553,96,1/11/2024,L1863,operador
+Producto_049,Cuidado Personal,Almacen Central,Proveedor_04,733,42,10/09/2024,L7892,operador
+Producto_043,Enlatados,Almacen Central,Proveedor_07,698,47,22/02/2025,L3693,supervisor
+Producto_011,Snacks,Sucursal Sur,Proveedor_09,230,81,16/09/2024,L2306,supervisor
+Producto_013,Bebidas,Sucursal Sur,Proveedor_07,709,91,13/12/2024,L5413,admin
+Producto_033,Limpieza,Sucursal Norte,Proveedor_08,974,78,20/11/2024,L2495,admin
+Producto_049,Bebidas,Sucursal Norte,Proveedor_04,267,58,6/01/2025,L2636,admin
+Producto_017,Limpieza,Almacen Central,Proveedor_02,641,73,21/05/2024,L9164,admin
+Producto_001,Limpieza,Sucursal Norte,Proveedor_02,52,63,23/09/2024,L6791,supervisor
+Producto_032,Cuidado Personal,Sucursal Sur,Proveedor_08,122,36,17/08/2024,L5389,admin
+Producto_034,Limpieza,Sucursal Sur,Proveedor_01,200,78,7/06/2024,L3511,admin
+Producto_003,Cuidado Personal,Sucursal Sur,Proveedor_04,402,86,3/12/2024,L3911,operador
+Producto_041,Bebidas,Sucursal Sur,Proveedor_02,871,20,5/08/2024,L9155,admin
+Producto_025,Snacks,Sucursal Sur,Proveedor_10,610,26,20/08/2024,L7287,supervisor
+Producto_048,Bebidas,Almacen Central,Proveedor_02,896,67,18/08/2024,L5548,admin
+Producto_032,Limpieza,Sucursal Sur,Proveedor_09,232,38,29/06/2024,L3255,operador
+Producto_020,Bebidas,Sucursal Sur,Proveedor_01,967,55,15/01/2025,L9445,operador
+Producto_048,Bebidas,Sucursal Sur,Proveedor_09,860,37,26/05/2024,L3869,operador
+Producto_016,Enlatados,Almacen Central,Proveedor_04,160,87,14/07/2024,L5493,admin
+Producto_048,Cuidado Personal,Sucursal Sur,Proveedor_03,400,52,4/11/2024,L5555,operador
+Producto_022,Enlatados,Sucursal Sur,Proveedor_06,775,46,2/04/2025,L1225,admin
+Producto_030,Bebidas,Sucursal Sur,Proveedor_01,452,80,29/06/2024,L8683,operador
+Producto_049,Bebidas,Sucursal Norte,Proveedor_05,517,56,23/07/2024,L4420,admin
+Producto_046,Enlatados,Sucursal Sur,Proveedor_03,699,82,19/08/2024,L1980,operador
+Producto_033,Limpieza,Sucursal Norte,Proveedor_09,734,73,2/03/2025,L6442,supervisor
+Producto_024,Snacks,Sucursal Sur,Proveedor_06,662,85,23/12/2024,L1154,supervisor
+Producto_002,Snacks,Almacen Central,Proveedor_08,928,28,4/07/2024,L8343,operador
+Producto_029,Snacks,Sucursal Sur,Proveedor_10,866,69,16/04/2025,L7971,supervisor
+Producto_007,Bebidas,Almacen Central,Proveedor_04,320,27,8/12/2024,L7002,operador
+Producto_015,Cuidado Personal,Sucursal Norte,Proveedor_02,799,82,22/05/2024,L5146,admin
+Producto_022,Snacks,Sucursal Norte,Proveedor_06,304,71,10/11/2024,L4854,supervisor
+Producto_043,Cuidado Personal,Almacen Central,Proveedor_01,263,72,28/02/2025,L4051,admin
+Producto_039,Cuidado Personal,Sucursal Norte,Proveedor_04,349,66,9/05/2024,L7966,admin
+Producto_050,Cuidado Personal,Sucursal Norte,Proveedor_03,656,82,28/07/2024,L6177,operador
+Producto_026,Enlatados,Sucursal Norte,Proveedor_05,829,42,23/12/2024,L8560,admin
+Producto_001,Snacks,Sucursal Norte,Proveedor_01,750,53,23/01/2025,L8805,supervisor
+Producto_048,Bebidas,Almacen Central,Proveedor_05,896,35,22/10/2024,L5070,operador
+Producto_005,Enlatados,Sucursal Sur,Proveedor_03,75,45,6/12/2024,L4506,admin
+Producto_022,Bebidas,Almacen Central,Proveedor_05,46,81,7/10/2024,L7617,admin
+Producto_039,Cuidado Personal,Almacen Central,Proveedor_05,22,29,26/08/2024,L3849,operador
+Producto_010,Snacks,Sucursal Sur,Proveedor_10,607,20,8/06/2024,L5611,operador
+Producto_002,Bebidas,Sucursal Sur,Proveedor_04,663,31,2/11/2024,L3427,admin
+Producto_033,Enlatados,Sucursal Sur,Proveedor_05,267,86,23/02/2025,L6536,supervisor
+Producto_043,Cuidado Personal,Almacen Central,Proveedor_02,252,54,26/09/2024,L9967,admin
+Producto_026,Snacks,Sucursal Norte,Proveedor_02,114,26,15/10/2024,L1825,admin
+Producto_050,Enlatados,Sucursal Sur,Proveedor_08,419,40,23/08/2024,L9867,supervisor
+Producto_037,Bebidas,Sucursal Sur,Proveedor_01,98,55,23/01/2025,L7806,supervisor
+Producto_032,Enlatados,Almacen Central,Proveedor_07,524,42,24/09/2024,L3914,admin
+Producto_030,Bebidas,Almacen Central,Proveedor_04,879,32,24/10/2024,L8186,admin
+Producto_036,Cuidado Personal,Almacen Central,Proveedor_09,914,95,7/08/2024,L3502,supervisor
+Producto_031,Cuidado Personal,Sucursal Sur,Proveedor_10,366,35,19/02/2025,L8266,admin
+Producto_021,Cuidado Personal,Almacen Central,Proveedor_07,143,76,21/03/2025,L3156,admin
+Producto_042,Snacks,Sucursal Sur,Proveedor_10,132,54,26/09/2024,L9924,operador
+Producto_011,Snacks,Sucursal Sur,Proveedor_09,73,77,19/08/2024,L2542,supervisor
+Producto_013,Snacks,Almacen Central,Proveedor_02,794,85,24/04/2025,L7172,admin
+Producto_038,Limpieza,Almacen Central,Proveedor_01,341,36,6/06/2024,L5312,admin
+Producto_004,Cuidado Personal,Sucursal Norte,Proveedor_03,444,73,13/11/2024,L5186,supervisor
+Producto_026,Limpieza,Sucursal Sur,Proveedor_03,172,32,30/08/2024,L4709,supervisor
+Producto_020,Cuidado Personal,Almacen Central,Proveedor_09,934,20,16/05/2024,L1504,operador
+Producto_049,Bebidas,Almacen Central,Proveedor_06,116,25,2/03/2025,L4627,admin
+Producto_032,Enlatados,Almacen Central,Proveedor_05,79,94,20/08/2024,L6348,operador
+Producto_019,Cuidado Personal,Almacen Central,Proveedor_02,46,68,15/04/2025,L4486,admin
+Producto_003,Bebidas,Sucursal Sur,Proveedor_10,735,35,6/05/2024,L8575,admin
+Producto_008,Snacks,Sucursal Norte,Proveedor_08,697,79,2/11/2024,L1539,admin
+Producto_041,Cuidado Personal,Sucursal Sur,Proveedor_06,958,36,10/10/2024,L7132,admin
+Producto_028,Enlatados,Almacen Central,Proveedor_03,252,25,6/02/2025,L8026,admin
+Producto_047,Bebidas,Sucursal Norte,Proveedor_10,823,49,30/08/2024,L8418,admin
+Producto_005,Bebidas,Sucursal Norte,Proveedor_01,145,68,5/08/2024,L8449,operador
+Producto_025,Limpieza,Sucursal Sur,Proveedor_01,460,52,21/01/2025,L8266,operador
+Producto_001,Enlatados,Sucursal Sur,Proveedor_06,475,88,13/05/2024,L6989,operador
+Producto_023,Enlatados,Almacen Central,Proveedor_05,713,93,5/02/2025,L8245,admin
+Producto_046,Bebidas,Sucursal Sur,Proveedor_04,445,84,15/07/2024,L4419,operador
+Producto_008,Snacks,Sucursal Norte,Proveedor_02,437,22,27/06/2024,L5363,admin
+Producto_044,Enlatados,Sucursal Norte,Proveedor_09,400,66,4/10/2024,L2252,admin
+Producto_014,Snacks,Sucursal Sur,Proveedor_03,102,57,19/10/2024,L7881,supervisor
+Producto_050,Snacks,Sucursal Norte,Proveedor_03,446,71,23/08/2024,L5261,admin
+Producto_024,Cuidado Personal,Sucursal Norte,Proveedor_07,105,70,7/02/2025,L3180,admin
+Producto_004,Snacks,Almacen Central,Proveedor_10,784,88,26/03/2025,L8941,admin
+Producto_002,Enlatados,Sucursal Norte,Proveedor_03,110,42,28/10/2024,L7238,operador
+Producto_016,Cuidado Personal,Almacen Central,Proveedor_03,863,86,25/11/2024,L5188,supervisor
+Producto_019,Enlatados,Almacen Central,Proveedor_02,603,61,16/06/2024,L7677,admin
+Producto_006,Bebidas,Almacen Central,Proveedor_09,523,65,26/03/2025,L8240,supervisor
+Producto_047,Bebidas,Sucursal Norte,Proveedor_08,349,82,12/03/2025,L4644,admin
+Producto_026,Cuidado Personal,Almacen Central,Proveedor_08,624,71,4/10/2024,L1302,operador
+Producto_022,Snacks,Sucursal Sur,Proveedor_08,385,45,15/04/2025,L6126,operador
+Producto_047,Limpieza,Sucursal Sur,Proveedor_02,505,57,14/09/2024,L2906,operador
+Producto_025,Enlatados,Sucursal Norte,Proveedor_07,952,36,10/09/2024,L7229,supervisor
+Producto_044,Bebidas,Almacen Central,Proveedor_04,24,87,21/02/2025,L1232,admin
+Producto_018,Cuidado Personal,Sucursal Sur,Proveedor_06,33,27,5/09/2024,L7738,supervisor
+Producto_041,Enlatados,Sucursal Norte,Proveedor_04,281,83,15/09/2024,L1876,supervisor
+Producto_037,Bebidas,Almacen Central,Proveedor_05,661,40,13/10/2024,L2605,operador
+Producto_048,Cuidado Personal,Sucursal Norte,Proveedor_08,822,28,25/08/2024,L9434,operador
+Producto_040,Enlatados,Sucursal Sur,Proveedor_06,321,94,25/04/2025,L6966,supervisor
+Producto_049,Limpieza,Sucursal Norte,Proveedor_09,193,98,8/10/2024,L7316,admin
+Producto_006,Snacks,Sucursal Norte,Proveedor_04,786,39,6/01/2025,L7283,operador
+Producto_001,Snacks,Sucursal Norte,Proveedor_06,804,30,8/05/2024,L7988,operador
+Producto_003,Bebidas,Sucursal Norte,Proveedor_02,9,24,12/12/2024,L3219,supervisor
+Producto_013,Snacks,Almacen Central,Proveedor_05,328,36,7/08/2024,L2994,operador
+Producto_024,Limpieza,Sucursal Norte,Proveedor_01,580,81,5/09/2024,L2908,operador
+Producto_009,Snacks,Sucursal Sur,Proveedor_03,512,59,13/06/2024,L6951,admin
+Producto_008,Limpieza,Almacen Central,Proveedor_05,269,79,17/07/2024,L5820,admin
+Producto_005,Limpieza,Sucursal Sur,Proveedor_10,573,23,30/01/2025,L2065,admin
+Producto_018,Limpieza,Almacen Central,Proveedor_06,864,42,25/02/2025,L3190,admin
+Producto_025,Bebidas,Almacen Central,Proveedor_07,961,97,24/06/2024,L4687,operador
+Producto_039,Limpieza,Sucursal Norte,Proveedor_06,578,26,1/11/2024,L9135,supervisor
+Producto_015,Enlatados,Almacen Central,Proveedor_04,477,46,23/11/2024,L2120,admin
+Producto_037,Limpieza,Sucursal Sur,Proveedor_01,253,87,2/02/2025,L5612,operador
+Producto_010,Bebidas,Sucursal Norte,Proveedor_06,908,50,30/06/2024,L7371,admin
+Producto_024,Cuidado Personal,Sucursal Sur,Proveedor_08,260,48,13/03/2025,L3371,admin
+Producto_002,Limpieza,Sucursal Sur,Proveedor_03,754,55,11/07/2024,L1793,operador
+Producto_027,Enlatados,Sucursal Sur,Proveedor_10,871,57,16/12/2024,L7166,operador
+Producto_026,Limpieza,Sucursal Norte,Proveedor_08,957,79,9/11/2024,L4531,admin
+Producto_037,Snacks,Almacen Central,Proveedor_10,904,70,31/03/2025,L4368,supervisor
+Producto_011,Bebidas,Sucursal Norte,Proveedor_05,404,55,29/10/2024,L4030,admin
+Producto_001,Limpieza,Sucursal Sur,Proveedor_05,430,92,24/06/2024,L9393,admin
+Producto_026,Bebidas,Sucursal Sur,Proveedor_04,536,94,9/07/2024,L9577,operador
+Producto_018,Limpieza,Sucursal Norte,Proveedor_01,639,62,30/04/2024,L2205,admin
+Producto_007,Cuidado Personal,Sucursal Norte,Proveedor_05,855,52,3/11/2024,L5380,operador
+Producto_043,Snacks,Sucursal Norte,Proveedor_05,48,90,27/05/2024,L4432,admin
+Producto_020,Cuidado Personal,Sucursal Sur,Proveedor_08,560,90,15/08/2024,L2759,admin
+Producto_030,Limpieza,Sucursal Sur,Proveedor_08,722,81,28/03/2025,L3717,admin
+Producto_049,Enlatados,Almacen Central,Proveedor_08,18,37,15/08/2024,L6490,operador
+Producto_050,Snacks,Sucursal Norte,Proveedor_01,113,57,14/06/2024,L7016,admin
+Producto_039,Limpieza,Sucursal Norte,Proveedor_10,978,53,1/02/2025,L1054,supervisor
+Producto_007,Enlatados,Almacen Central,Proveedor_09,758,86,17/08/2024,L9519,supervisor
+Producto_047,Enlatados,Sucursal Sur,Proveedor_03,608,27,12/07/2024,L3143,supervisor
+Producto_032,Limpieza,Almacen Central,Proveedor_06,468,33,18/09/2024,L1822,supervisor
+Producto_007,Snacks,Sucursal Sur,Proveedor_01,150,38,7/01/2025,L4452,operador
+Producto_036,Enlatados,Sucursal Norte,Proveedor_02,896,66,14/10/2024,L7035,operador
+Producto_042,Snacks,Sucursal Sur,Proveedor_07,118,31,9/04/2025,L1804,supervisor
+Producto_030,Bebidas,Sucursal Norte,Proveedor_05,939,43,7/02/2025,L3679,operador
+Producto_046,Bebidas,Sucursal Norte,Proveedor_03,208,33,20/04/2025,L3599,supervisor
+Producto_045,Bebidas,Sucursal Sur,Proveedor_09,757,41,6/09/2024,L3541,supervisor
+Producto_029,Enlatados,Sucursal Norte,Proveedor_07,804,94,7/06/2024,L6475,admin
+Producto_038,Snacks,Almacen Central,Proveedor_05,152,95,1/02/2025,L9041,supervisor
+Producto_021,Limpieza,Almacen Central,Proveedor_06,730,59,21/01/2025,L7136,admin
+Producto_007,Snacks,Almacen Central,Proveedor_01,921,81,28/12/2024,L4629,supervisor
+Producto_043,Bebidas,Sucursal Sur,Proveedor_05,291,45,31/03/2025,L9340,operador
+Producto_040,Limpieza,Almacen Central,Proveedor_07,743,73,21/01/2025,L5150,operador
+Producto_024,Enlatados,Almacen Central,Proveedor_10,547,39,14/09/2024,L8101,operador
+Producto_045,Limpieza,Sucursal Norte,Proveedor_09,153,85,15/02/2025,L3343,admin
+Producto_001,Bebidas,Almacen Central,Proveedor_08,41,44,21/03/2025,L8970,operador
+Producto_050,Enlatados,Sucursal Sur,Proveedor_06,865,31,28/07/2024,L5090,admin
+Producto_017,Snacks,Almacen Central,Proveedor_07,496,66,17/04/2025,L2341,operador
+Producto_008,Enlatados,Almacen Central,Proveedor_07,484,99,13/10/2024,L6319,admin
+Producto_018,Bebidas,Sucursal Sur,Proveedor_10,488,45,13/03/2025,L5873,operador
+Producto_017,Snacks,Almacen Central,Proveedor_06,249,26,2/08/2024,L5430,admin
+Producto_007,Bebidas,Sucursal Sur,Proveedor_08,497,78,26/09/2024,L2500,supervisor
+Producto_031,Cuidado Personal,Sucursal Sur,Proveedor_03,401,78,16/01/2025,L6392,supervisor
+Producto_031,Limpieza,Almacen Central,Proveedor_02,130,56,9/11/2024,L3983,supervisor
+Producto_023,Cuidado Personal,Sucursal Sur,Proveedor_08,496,23,15/05/2024,L1920,admin
+Producto_018,Bebidas,Almacen Central,Proveedor_10,107,85,22/06/2024,L9930,supervisor
+Producto_034,Limpieza,Sucursal Sur,Proveedor_02,415,58,1/07/2024,L3032,admin
+Producto_044,Bebidas,Sucursal Sur,Proveedor_09,265,49,5/05/2024,L5435,admin
+Producto_001,Bebidas,Sucursal Sur,Proveedor_08,669,87,4/12/2024,L5388,admin
+Producto_048,Bebidas,Almacen Central,Proveedor_09,398,68,20/05/2024,L2828,admin
+Producto_037,Limpieza,Sucursal Norte,Proveedor_07,439,82,1/07/2024,L9202,supervisor
+Producto_013,Snacks,Almacen Central,Proveedor_07,563,23,1/03/2025,L8827,admin
+Producto_045,Snacks,Sucursal Sur,Proveedor_02,824,60,31/08/2024,L7402,supervisor
+Producto_005,Enlatados,Sucursal Norte,Proveedor_07,688,28,20/01/2025,L2913,admin
+Producto_042,Limpieza,Sucursal Norte,Proveedor_02,61,36,25/09/2024,L9194,operador
+Producto_038,Enlatados,Almacen Central,Proveedor_09,328,87,7/05/2024,L2290,admin
+Producto_003,Limpieza,Almacen Central,Proveedor_09,194,44,15/09/2024,L1954,supervisor
+Producto_024,Cuidado Personal,Sucursal Sur,Proveedor_06,327,24,4/11/2024,L9228,admin
+Producto_028,Enlatados,Almacen Central,Proveedor_01,113,59,2/07/2024,L1317,admin
+Producto_003,Snacks,Sucursal Sur,Proveedor_01,261,38,28/05/2024,L4239,admin
+Producto_048,Bebidas,Almacen Central,Proveedor_09,692,61,8/05/2024,L5286,operador
+Producto_038,Cuidado Personal,Sucursal Sur,Proveedor_05,746,64,19/06/2024,L3808,operador
+Producto_031,Snacks,Sucursal Norte,Proveedor_05,669,58,6/02/2025,L3403,supervisor
+Producto_014,Enlatados,Almacen Central,Proveedor_07,961,32,14/03/2025,L2136,admin
+Producto_017,Snacks,Almacen Central,Proveedor_03,325,49,14/02/2025,L6352,supervisor
+Producto_028,Cuidado Personal,Sucursal Sur,Proveedor_05,988,41,15/10/2024,L8059,supervisor
+Producto_004,Limpieza,Almacen Central,Proveedor_06,400,29,18/10/2024,L9213,supervisor
+Producto_018,Snacks,Sucursal Norte,Proveedor_04,762,71,22/04/2025,L9220,operador
+Producto_033,Limpieza,Sucursal Sur,Proveedor_10,982,45,15/09/2024,L4356,admin
+Producto_035,Enlatados,Almacen Central,Proveedor_07,270,48,23/11/2024,L2098,supervisor
+Producto_047,Cuidado Personal,Sucursal Norte,Proveedor_03,848,75,27/01/2025,L1988,admin
+Producto_047,Enlatados,Sucursal Sur,Proveedor_04,773,38,15/08/2024,L1933,operador
+Producto_034,Enlatados,Sucursal Sur,Proveedor_01,792,43,17/04/2025,L6390,operador
+Producto_008,Cuidado Personal,Sucursal Norte,Proveedor_09,656,72,21/04/2025,L9782,operador
+Producto_046,Snacks,Sucursal Sur,Proveedor_03,348,83,30/10/2024,L6655,supervisor
+Producto_003,Cuidado Personal,Sucursal Norte,Proveedor_09,733,97,30/07/2024,L2875,admin
+Producto_038,Bebidas,Sucursal Sur,Proveedor_06,500,21,20/05/2024,L1583,operador
+Producto_013,Bebidas,Almacen Central,Proveedor_02,989,83,26/05/2024,L2389,operador
+Producto_031,Limpieza,Almacen Central,Proveedor_09,800,60,5/08/2024,L1213,operador
+Producto_024,Bebidas,Almacen Central,Proveedor_09,45,51,8/02/2025,L3720,supervisor
+Producto_040,Snacks,Almacen Central,Proveedor_02,224,52,8/09/2024,L2949,admin
+Producto_013,Cuidado Personal,Sucursal Norte,Proveedor_06,102,85,14/11/2024,L8014,supervisor
+Producto_046,Snacks,Sucursal Norte,Proveedor_02,105,63,28/06/2024,L2895,operador
+Producto_003,Limpieza,Sucursal Norte,Proveedor_09,773,92,5/05/2024,L1552,supervisor
+Producto_012,Snacks,Sucursal Norte,Proveedor_04,317,26,4/02/2025,L1207,supervisor
+Producto_022,Snacks,Sucursal Sur,Proveedor_03,126,60,23/10/2024,L5109,operador
+Producto_018,Cuidado Personal,Sucursal Sur,Proveedor_09,300,38,5/03/2025,L9941,admin
+Producto_008,Enlatados,Sucursal Sur,Proveedor_05,694,51,26/06/2024,L8979,supervisor
+Producto_006,Snacks,Sucursal Sur,Proveedor_06,548,75,3/05/2024,L9946,operador
+Producto_029,Bebidas,Sucursal Sur,Proveedor_01,861,50,5/04/2025,L9595,admin
+Producto_004,Cuidado Personal,Sucursal Norte,Proveedor_04,955,43,10/03/2025,L2712,operador
+Producto_032,Bebidas,Sucursal Norte,Proveedor_05,865,85,29/05/2024,L2394,supervisor
+Producto_012,Limpieza,Almacen Central,Proveedor_02,551,40,16/09/2024,L4591,supervisor
+Producto_023,Snacks,Sucursal Norte,Proveedor_02,374,56,8/06/2024,L5648,supervisor
+Producto_047,Bebidas,Sucursal Norte,Proveedor_07,837,36,19/05/2024,L9219,supervisor
+Producto_035,Enlatados,Almacen Central,Proveedor_01,423,95,16/11/2024,L8062,operador
+Producto_031,Limpieza,Sucursal Norte,Proveedor_03,629,33,8/02/2025,L6724,supervisor
+Producto_012,Bebidas,Almacen Central,Proveedor_05,275,27,9/11/2024,L8115,admin
+Producto_020,Cuidado Personal,Almacen Central,Proveedor_05,686,95,15/11/2024,L4568,operador
+Producto_015,Cuidado Personal,Sucursal Sur,Proveedor_04,881,97,20/12/2024,L1968,operador
+Producto_037,Cuidado Personal,Sucursal Norte,Proveedor_01,118,54,13/10/2024,L6178,admin
+Producto_033,Bebidas,Sucursal Sur,Proveedor_10,275,72,30/08/2024,L2239,operador
+Producto_043,Snacks,Almacen Central,Proveedor_02,796,76,21/03/2025,L6342,operador
+Producto_043,Snacks,Sucursal Sur,Proveedor_06,851,42,24/12/2024,L2969,supervisor
+Producto_008,Snacks,Almacen Central,Proveedor_01,775,48,12/05/2024,L5612,operador
+Producto_022,Snacks,Almacen Central,Proveedor_07,118,62,5/01/2025,L8705,operador
+Producto_040,Bebidas,Sucursal Sur,Proveedor_08,344,65,14/07/2024,L4072,operador
+Producto_031,Enlatados,Almacen Central,Proveedor_09,601,81,21/09/2024,L5033,supervisor
+Producto_006,Bebidas,Almacen Central,Proveedor_09,88,67,3/08/2024,L4828,admin
+Producto_031,Bebidas,Sucursal Sur,Proveedor_04,609,23,17/01/2025,L5114,supervisor
+Producto_034,Snacks,Almacen Central,Proveedor_09,278,94,21/12/2024,L2367,supervisor
+Producto_007,Bebidas,Almacen Central,Proveedor_01,75,90,7/12/2024,L3875,admin
+Producto_025,Bebidas,Almacen Central,Proveedor_01,290,63,17/01/2025,L8010,supervisor
+Producto_014,Snacks,Sucursal Norte,Proveedor_09,2,45,5/06/2024,L3863,supervisor
+Producto_006,Cuidado Personal,Almacen Central,Proveedor_10,664,31,17/12/2024,L5399,admin
+Producto_015,Cuidado Personal,Sucursal Sur,Proveedor_07,325,65,30/04/2024,L7570,admin
+Producto_021,Limpieza,Sucursal Sur,Proveedor_05,123,34,22/07/2024,L9906,operador
+Producto_015,Cuidado Personal,Almacen Central,Proveedor_06,786,53,30/05/2024,L7012,admin
+Producto_046,Limpieza,Almacen Central,Proveedor_03,647,35,13/01/2025,L6539,supervisor
+Producto_018,Snacks,Almacen Central,Proveedor_04,89,94,9/08/2024,L8052,operador
+Producto_007,Bebidas,Sucursal Norte,Proveedor_10,951,55,4/02/2025,L2798,supervisor
+Producto_001,Cuidado Personal,Almacen Central,Proveedor_10,558,32,1/01/2025,L2300,supervisor
+Producto_028,Bebidas,Sucursal Norte,Proveedor_09,782,29,29/12/2024,L7295,admin
+Producto_026,Limpieza,Almacen Central,Proveedor_04,49,43,10/04/2025,L4683,operador
+Producto_010,Bebidas,Sucursal Norte,Proveedor_03,675,93,30/08/2024,L1482,supervisor
+Producto_033,Enlatados,Almacen Central,Proveedor_06,431,56,7/12/2024,L1987,operador
+Producto_032,Limpieza,Sucursal Norte,Proveedor_09,589,96,18/08/2024,L6016,supervisor
+Producto_035,Enlatados,Sucursal Norte,Proveedor_03,553,58,31/08/2024,L7602,operador
+Producto_024,Cuidado Personal,Sucursal Norte,Proveedor_03,579,61,15/07/2024,L7764,supervisor
+Producto_036,Enlatados,Almacen Central,Proveedor_04,898,92,14/12/2024,L6472,operador
+Producto_006,Bebidas,Sucursal Sur,Proveedor_04,780,68,17/06/2024,L4713,admin
+Producto_044,Limpieza,Almacen Central,Proveedor_08,229,91,10/03/2025,L9258,supervisor
+Producto_044,Enlatados,Sucursal Norte,Proveedor_03,341,89,20/12/2024,L6291,supervisor
+Producto_038,Bebidas,Sucursal Sur,Proveedor_02,470,49,3/01/2025,L1661,supervisor
+Producto_036,Enlatados,Almacen Central,Proveedor_09,310,99,13/01/2025,L3493,supervisor
+Producto_016,Cuidado Personal,Almacen Central,Proveedor_08,979,22,6/12/2024,L1236,operador
+Producto_028,Limpieza,Sucursal Norte,Proveedor_05,979,84,29/12/2024,L1285,admin
+Producto_020,Snacks,Sucursal Sur,Proveedor_01,783,95,22/03/2025,L3785,admin
+Producto_014,Cuidado Personal,Almacen Central,Proveedor_07,113,85,3/05/2024,L1340,supervisor
+Producto_027,Bebidas,Almacen Central,Proveedor_01,842,86,31/10/2024,L8574,supervisor
+Producto_004,Snacks,Sucursal Sur,Proveedor_06,418,41,7/12/2024,L5437,admin
+Producto_042,Cuidado Personal,Sucursal Sur,Proveedor_01,41,57,6/02/2025,L6548,operador
+Producto_030,Snacks,Sucursal Norte,Proveedor_06,66,99,22/04/2025,L8693,admin
+Producto_015,Enlatados,Sucursal Sur,Proveedor_02,858,21,5/10/2024,L6907,supervisor
+Producto_010,Bebidas,Sucursal Norte,Proveedor_09,252,73,14/07/2024,L5259,operador
+Producto_014,Bebidas,Sucursal Norte,Proveedor_06,237,71,4/04/2025,L6772,admin
+Producto_034,Enlatados,Sucursal Norte,Proveedor_04,536,98,20/02/2025,L8340,admin
+Producto_031,Cuidado Personal,Sucursal Norte,Proveedor_06,671,62,18/08/2024,L6179,operador
+Producto_019,Limpieza,Almacen Central,Proveedor_03,929,29,19/05/2024,L5737,supervisor
+Producto_011,Snacks,Almacen Central,Proveedor_08,462,92,5/02/2025,L6448,supervisor
+Producto_046,Limpieza,Sucursal Sur,Proveedor_01,259,23,16/01/2025,L6671,admin
+Producto_037,Cuidado Personal,Almacen Central,Proveedor_04,419,57,10/09/2024,L8857,operador
+Producto_037,Cuidado Personal,Sucursal Sur,Proveedor_03,518,46,27/01/2025,L2549,operador
+Producto_037,Enlatados,Sucursal Norte,Proveedor_05,509,74,26/02/2025,L8898,admin
+Producto_038,Enlatados,Sucursal Norte,Proveedor_07,825,58,23/02/2025,L7356,supervisor
+Producto_050,Enlatados,Almacen Central,Proveedor_05,337,64,20/11/2024,L1163,admin
+Producto_035,Bebidas,Sucursal Sur,Proveedor_05,307,74,2/01/2025,L8961,supervisor
+Producto_004,Snacks,Sucursal Norte,Proveedor_08,226,71,18/03/2025,L7164,supervisor
+Producto_013,Bebidas,Almacen Central,Proveedor_01,119,28,21/12/2024,L1571,admin
+Producto_033,Snacks,Sucursal Norte,Proveedor_10,955,40,19/07/2024,L9906,operador
+Producto_034,Limpieza,Sucursal Norte,Proveedor_08,944,98,21/05/2024,L8340,operador
+Producto_005,Cuidado Personal,Almacen Central,Proveedor_07,100,27,31/05/2024,L4271,admin
+Producto_023,Limpieza,Almacen Central,Proveedor_03,407,43,12/04/2025,L2668,admin
+Producto_040,Snacks,Sucursal Sur,Proveedor_04,650,71,30/09/2024,L6510,operador
+Producto_028,Limpieza,Sucursal Sur,Proveedor_10,260,24,14/05/2024,L6439,supervisor
+Producto_038,Cuidado Personal,Almacen Central,Proveedor_08,767,44,4/06/2024,L4009,operador
+Producto_050,Limpieza,Almacen Central,Proveedor_04,381,87,10/02/2025,L9569,operador
+Producto_050,Snacks,Almacen Central,Proveedor_04,651,21,3/08/2024,L7303,operador
+Producto_016,Cuidado Personal,Sucursal Norte,Proveedor_10,782,36,28/10/2024,L6784,operador
+Producto_014,Cuidado Personal,Sucursal Norte,Proveedor_09,625,41,28/09/2024,L1685,admin
+Producto_021,Limpieza,Sucursal Norte,Proveedor_07,38,31,8/09/2024,L8697,admin
+Producto_013,Enlatados,Sucursal Norte,Proveedor_08,301,26,29/11/2024,L9789,supervisor
+Producto_043,Bebidas,Sucursal Norte,Proveedor_02,769,48,28/09/2024,L5558,operador
+Producto_050,Limpieza,Sucursal Sur,Proveedor_08,43,96,25/07/2024,L4754,admin
+Producto_033,Limpieza,Sucursal Sur,Proveedor_06,18,42,30/03/2025,L6926,operador
+Producto_025,Enlatados,Sucursal Sur,Proveedor_08,361,77,6/12/2024,L7272,admin
+Producto_003,Bebidas,Sucursal Sur,Proveedor_10,865,29,1/07/2024,L3159,admin
+Producto_009,Cuidado Personal,Sucursal Norte,Proveedor_10,601,77,6/03/2025,L4083,admin
+Producto_014,Bebidas,Sucursal Norte,Proveedor_05,376,39,13/02/2025,L4983,operador
+Producto_031,Limpieza,Almacen Central,Proveedor_10,131,23,9/04/2025,L2929,supervisor
