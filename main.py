@@ -22,19 +22,19 @@ st.title("Sistema Inteligente de Control de Inventario - ConsumoMax")
 st.sidebar.header("Filtros de búsqueda")
 almacen = st.sidebar.multiselect(
     "Seleccionar almacén:",
-    options=df["Almacén"].unique(),
-    default=df["Almacén"].unique()
+    options=df["Almacen"].unique(),
+    default=df["Almacen"].unique()
 )
 categoria = st.sidebar.multiselect(
     "Seleccionar categoría:",
-    options=df["Categoría"].unique(),
-    default=df["Categoría"].unique()
+    options=df["Categoria"].unique(),
+    default=df["Categoria"].unique()
 )
 
 # Aplicar filtros
 df_filtrado = df[
-    (df["Almacén"].isin(almacen)) &
-    (df["Categoría"].isin(categoria))
+    (df["Almacen"].isin(almacen)) &
+    (df["Categoria"].isin(categoria))
 ]
 
 # Mostrar datos filtrados
@@ -59,9 +59,9 @@ with col3:
 
 # Gráficos
 st.subheader("Distribución de Stock por Categoría")
-stock_categoria = df_filtrado.groupby("Categoría")["Cantidad_Actual"].sum()
+stock_categoria = df_filtrado.groupby("Categoria")["Cantidad_Actual"].sum()
 st.bar_chart(stock_categoria)
 
 st.subheader("Distribución por Almacén")
-stock_almacen = df_filtrado.groupby("Almacén")["Cantidad_Actual"].sum()
+stock_almacen = df_filtrado.groupby("Almacen")["Cantidad_Actual"].sum()
 st.bar_chart(stock_almacen)
