@@ -54,7 +54,7 @@ with col2:
 with col3:
     st.metric(
         label="Productos bajo umbral mínimo",
-        value=(df_filtrado["Cantidad_Actual"] < df_filtrado["Umbral_Mínimo"]).sum()
+        value=(df_filtrado["Cantidad_Actual"] < df_filtrado["Umbral_Minimo"]).sum()
     )
 
 # Gráficos
