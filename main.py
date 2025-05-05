@@ -16,7 +16,7 @@ st.set_page_config(
 )
 
 # Título principal
-st.title("Sistema Inteligente de Control de Inventario - ConsumoMax")
+st.title("Sistema Inteligente de Control de Inventario")
 
 # Filtros laterales
 st.sidebar.header("Filtros de búsqueda")
